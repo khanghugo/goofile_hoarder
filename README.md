@@ -1,3 +1,4 @@
 # goofile_hoarder
 to download all goofile search
-lol
+
+just copy and paste main() code from goofile lol
